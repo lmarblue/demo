@@ -17,4 +17,15 @@
  
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
+ ```c
+ #include <stdio.h>
+ int main(void){
+ int i=5;
+ printf("i=%d",d);
+ return 0;
+ }
  
+名字 | 地址 | 现状
+-----|-----|-----
+三无 | 福建 | 研二
+慕倾 | 湖南 | 大三
