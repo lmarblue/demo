@@ -17,6 +17,12 @@
  
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
+ 名字 |地址   |现状  
+-----|------|------
+三无  | 福建 | 研二 
+慕倾   |湖南  | 大三 
+  &ensp; &ensp; 罗婷
+ 
  ```c
  #include <stdio.h>
  int main(void){
@@ -26,8 +32,4 @@
  }
  
 
-名字 |地址   |现状  
------|------|------
-三无  | 福建 | 研二 
-慕倾   |湖南  | 大三 
-  &ensp; &ensp; 罗婷
+
