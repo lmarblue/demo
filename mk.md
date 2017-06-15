@@ -1,9 +1,11 @@
 # 一级标题
- 
  ## 二级标题
- 
- __this text will be broken__
+ __ this text will be broken __
  
  ~~this text will be modified~~
  
- **三无Marblue**
+ ** 三无Marblue **
+ * sanwuMarblue
+ - hello！
+ 1. today is a good day!
+ 2. my name 
